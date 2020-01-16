@@ -1,6 +1,7 @@
 # alurapic
 
 > A Vue.js project
+Api adiciona e exclui fotos simulando uma galeria, desenvolvida para treinamento da linguagem Vue.js
 
 ## Build Setup
 
